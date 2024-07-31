@@ -17,7 +17,7 @@ public class Test {
 		break;
 		default:System.out.println("holiday");
 		}
-		
+		System.out.println("Testing Git");
 	}
 
 }
