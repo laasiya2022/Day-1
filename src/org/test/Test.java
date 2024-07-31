@@ -18,6 +18,7 @@ public class Test {
 		default:System.out.println("holiday");
 		}
 		System.out.println("Testing Git");
+		System.out.println("Testing 2");
 	}
 
 }
